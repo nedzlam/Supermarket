@@ -110,9 +110,9 @@ public class Main {
            Artikl izbaceniArtikl;
            for(int j=0; j<artikliKorpa.size(); j++) {
                    izbaceniArtikl = artikliKorpa.get(j);
-                   artikliKorpa.remove(artikliKorpa.get(j));
                    artikliSupermarket.add(izbaceniArtikl);
                }
+           artikliKorpa.clear();
        }
 
         System.out.println("\nArtikli u korpi: ");
