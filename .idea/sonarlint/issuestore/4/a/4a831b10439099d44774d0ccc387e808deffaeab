@@ -1,0 +1,22 @@
+
+gsquid:S1192"IDefine a constant instead of duplicating this literal "Biciklo" 20 times.(™Ÿ8ÈÜş˜ô-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘8¤‰Æô-
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Ùşûùùÿÿÿÿ8Ñù•Åô-
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ëúæ8Ø³·õ-
+ksquid:S3973<"HUse indentation to denote the code conditionally executed by this "for".(ÿâ™ÿÿÿÿÿ8·¡àÈô-
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ĞÉµËıÿÿÿÿ8ªÁ£ßô-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(ĞÉµËıÿÿÿÿ8‚ÊÜÃô-
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ñ·óÃ8Ö³ŸÅô-
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(İ¡Ë©8Æ¸õ-
+U
+squid:S106P"9Replace this use of System.out or System.err by a logger.(µ¬Ş8Æ¸õ-
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(£çÚøÿÿÿÿ8Æ¸õ-
+U
+squid:S106T"9Replace this use of System.out or System.err by a logger.(µ¬Ş8Æ¸õ-
